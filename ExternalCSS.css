@@ -18,11 +18,11 @@ th, td {
   text-align: left;
 }
 
-tr:nth-child(even) {
+tr:hover:nth-child(even) {
   background-color: #f2f2f2;
 }
 
-tr:nth-child(odd) {
+tr:hover:nth-child(odd) {
   background-color: #ffffff;
 }
 
